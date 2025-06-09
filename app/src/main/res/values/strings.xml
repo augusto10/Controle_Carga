@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cargo Scan</string>
+    <string name="home">Início</string>
+    <string name="scanning">Scanning</string>
+    <string name="controls">Controles</string>
+    <string name="manifests">Manifestos</string>
+    <string name="new_control">Novo Controle</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="select_nfe">Selecionar NF-e</string>
+    <string name="sign_manifest">Assinar Manifesto</string>
+    <string name="motorista_name">Nome do Motorista</string>
+    <string name="motorista_cpf">CPF do Motorista</string>
+    <string name="responsavel_name">Nome do Responsável</string>
+    <string name="responsavel_cpf">CPF do Responsável</string>
+    <string name="create_control">Criar Controle</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="select">Selecionar</string>
+    <string name="manifest">Manifesto</string>
+    <string name="nfe">NF-e</string>
+    <string name="control">Controle</string>
+    <string name="sign">Assinar</string>
+    <string name="share">Compartilhar</string>
+    <string name="print">Imprimir</string>
+</resources>

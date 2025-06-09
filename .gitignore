@@ -1,0 +1,55 @@
+# Android
+build/
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Gradle
+.gradle/
+build/
+gradle/wrapper/gradle-wrapper.jar
+
+# Java
+*.class
+*.log
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+*.apk
+*.ap_
+*.keystore
+
+# Logs
+logs/
+*.log
+
+# Database
+app/build/outputs/apk/
+app/build/outputs/bundle/
+app/build/outputs/mapping/
+app/build/outputs/reports/
+
+# PDFs
+*.pdf
+
+# Hilt
+.hilt/
+
+# Cache
+.cache/
+
+# Test
+coverage/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
