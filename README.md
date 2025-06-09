@@ -1,4 +1,4 @@
-# Cargo Scan
+# Controle_Carga
 
 Aplicativo Android para gestão de notas fiscais e manifestos de carga.
 
@@ -26,7 +26,7 @@ Aplicativo Android para gestão de notas fiscais e manifestos de carga.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/cargo-scan.git
+git clone https://github.com/augusto10/Controle_Carga.git
 ```
 
 2. Abra o projeto no Android Studio
