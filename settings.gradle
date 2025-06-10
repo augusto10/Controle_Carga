@@ -1,0 +1,2 @@
+rootProject.name = 'painel_carregamentos'
+include ':app'
